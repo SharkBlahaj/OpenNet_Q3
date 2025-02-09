@@ -32,5 +32,5 @@ http://127.0.0.1:5000/greet?name=YourName
 If the `name` parameter is not provided, it will default to "World".
 
 ## Demonstration
-![API Running GIF](path/to/your/gif.gif)
+![API Running GIF](https://github.com/SharkBlahaj/OpenNet_Q3/blob/main/assets/OpenNet_Q3.gif)
 
