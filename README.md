@@ -1,4 +1,4 @@
-# OpenNet - Python API Creation
+# API Creation
 
 ## Description
 This project contains a simple RESTful API created using Flask. The API has one endpoint `/greet` that accepts a GET request and returns a JSON response with a greeting message.
