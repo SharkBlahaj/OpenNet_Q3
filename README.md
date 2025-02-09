@@ -8,7 +8,9 @@ This project contains a simple RESTful API created using Flask. The API has one 
 OpenNet_Q3/
 ├── Q3_API_creation.py  
 ├── README.md           
-└── requirements.txt    
+├── requirements.txt
+├── assets/
+│   ├── OpenNet_Q3.gif 
 ```
 
 ## Requirements
