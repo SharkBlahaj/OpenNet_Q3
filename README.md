@@ -9,8 +9,8 @@ OpenNet_Q3/
 ├── Q3_API_creation.py  
 ├── README.md           
 ├── requirements.txt
-├── assets/
-│   ├── OpenNet_Q3.gif 
+└── assets/
+    └── OpenNet_Q3.gif 
 ```
 
 ## Requirements
